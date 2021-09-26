@@ -1,4 +1,4 @@
-# tableau-challenge = Citi Bike Analysis
+# Tableau - Citi Bike Analysis
 ## Background
 
 ![citi-bike-station-bikes.jpg](citi-bike-station-bikes.jpg)
@@ -17,7 +17,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 Data was cleaned and prepped using Jupyter Notebook. 
 
-The Tableau analysis can be viewed here: [Citi Bike - Tableau Analysis](https://public.tableau.com/profile/neha.nayeem7261#!/vizhome/CitiBike-Tableau_16025448831700/Story1)
+The Tableau analysis can be viewed here: [Citi Bike - Tableau Analysis](https://public.tableau.com/app/profile/litesh.samji/viz/CitiBikeAnalytics_16323097689100/CitibikeAnalysis2020)
 
 **The following are some questions that were tackled:**
 
